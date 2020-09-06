@@ -1,0 +1,63 @@
+body{
+	text-align: center;
+}
+.cant{
+    text-align: center;
+    border: solid rgb(14, 83, 75);
+    background-color: rgb(14, 83, 75);
+    height: 80px;
+    margin-left: 714px;
+    padding-top: 50px;
+    
+
+}
+.orange{
+	border : solid orange 6px;
+	font-weight: bolder;
+	font-size: 22px;
+	color: orange;
+	text-align: center;
+	size: 60;
+	background-color: white;
+    cursor: pointer;
+    margin-left: 300px;
+}
+
+#chrono{
+	font-weight: bolder;
+	font-size: 35px;
+	height: 40px;
+	width: 500px;
+	text-align: left;
+    display: inline-block;
+    
+
+}
+
+#text{
+	height: 60px;
+	border : solid  rgb(37, 221, 241) 6px;
+	width: 700px;
+	display: inline-block;
+    margin-top: 20px;
+    padding-bottom: 100px;
+
+}
+
+
+header{
+	background-color: blue;
+	font-size: 26px;
+	color: white;
+	height: 55px;
+}
+#dir{
+    background-color: gainsboro;
+    border: solid 3px gainsboro;
+    height: 200px;
+    margin-right: 550px;
+}
+#sow{
+    margin-right: 600px;
+}
+
